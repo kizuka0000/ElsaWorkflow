@@ -1,0 +1,2 @@
+Studio  dotnet run --urls "https://localhost:6001"
+Server  dotnet run --urls "https://localhost:5001"
